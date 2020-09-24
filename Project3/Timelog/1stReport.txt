@@ -1,0 +1,33 @@
+Report submited at 2020-09-23 __:__
+Role
+    Assignment Leader: Spencer Arnold
+    Programmer       : Evaline Ivey
+    Tester           : Katherine Arnold
+Progress
+    Spencer Arnold
+        This is the first time log to be submitted.
+    Evaline Ivey
+        This is the first time log to be submitted.
+    Katherine Arnold
+        This is the first time log to be submitted.
+Work to be done
+    Spencer Arnold
+        Setup the Git repository, upload project files, and get group members access. Assist in choosing tiger.ll file.
+    Evaline Ivey
+        Correct any errors with the chosen tiger.ll file. Assist in choosing tiger.ll file.
+    Katherine Arnold
+        Determine test data by the next deadline on the 28th. Assist in choosing tiger.ll file.
+Meet deadline
+    Name of Developer(s)
+    Spencer Arnold
+        Will the developer(s) be able to finish and submit the work before the next
+        deadline? If no, please explain why?
+	Yes.
+    Evaline Ivey
+        Will the developer(s) be able to finish and submit the work before the next
+        deadline? If no, please explain why?
+	Yes.
+    Katherine Arnold
+        Will the developer(s) be able to finish and submit the work before the next
+        deadline? If no, please explain why?
+	Yes.
