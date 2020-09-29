@@ -1,0 +1,33 @@
+Report submited at 2020-09-28 11:24pm
+Role
+    Assignment Leader: Spencer Arnold
+    Programmer       : Evaline Ivey
+    Tester           : Katherine Arnold
+Progress
+    Spencer Arnold
+        Git repository has been setup and the boiler plate project files have been uploaded. Group now has access to remote repository.
+    Evaline Ivey
+        Since Evaline's tiger.ll file got a score of 100%, we have chosen it. 
+    Katherine Arnold
+        Worked on determining test data. 
+Work to be done
+    Spencer Arnold
+        Assist Evaline with development once the tiger.ll file is uploaded to the repository.
+    Evaline Ivey
+        Upload the tiger.ll file and begin integration/development.
+    Katherine Arnold
+        Discuss test data with the group and work with Evaline and Spencer to make sure it is valid.
+Meet deadline
+    Name of Developer(s)
+    Spencer Arnold
+        Will the developer(s) be able to finish and submit the work before the next
+        deadline? If no, please explain why?
+	Yes.
+    Evaline Ivey
+        Will the developer(s) be able to finish and submit the work before the next
+        deadline? If no, please explain why?
+	Yes.
+    Katherine Arnold
+        Will the developer(s) be able to finish and submit the work before the next
+        deadline? If no, please explain why?
+	Yes.
